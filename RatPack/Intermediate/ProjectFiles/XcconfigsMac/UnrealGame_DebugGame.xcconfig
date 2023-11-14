@@ -1,0 +1,9 @@
+// pull in the shared settings for all configs for this target
+#include "UnrealGame.xcconfig"
+
+// Unreal per-config variables
+UE_TARGET_CONFIG = DebugGame
+UE_UBT_BINARY_SUBPATH = UnrealGame-Mac-DebugGame
+UE_MAC_EXECUTABLE_NAME = UnrealGame-Mac-DebugGame
+PRODUCT_NAME = UnrealGame-Mac-DebugGame
+CODE_SIGN_ENTITLEMENTS = ../../../../../../Shared/Epic Games/UE_5.3/Engine/Build/Mac/Resources/Sandbox.Server.entitlements
