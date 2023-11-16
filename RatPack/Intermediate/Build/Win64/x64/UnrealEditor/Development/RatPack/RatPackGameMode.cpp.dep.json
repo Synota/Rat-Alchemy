@@ -1,0 +1,31 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\mplia\\documents\\fall 2023\\cms.611\\rat-alchemy\\ratpack\\source\\ratpack\\ratpackgamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\mplia\\documents\\fall 2023\\cms.611\\rat-alchemy\\ratpack\\intermediate\\build\\win64\\x64\\ratpackeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\mplia\\documents\\fall 2023\\cms.611\\rat-alchemy\\ratpack\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ratpack\\definitions.ratpack.h",
+            "c:\\users\\mplia\\documents\\fall 2023\\cms.611\\rat-alchemy\\ratpack\\source\\ratpack\\ratpackgamemode.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\mplia\\documents\\fall 2023\\cms.611\\rat-alchemy\\ratpack\\intermediate\\build\\win64\\unrealeditor\\inc\\ratpack\\uht\\ratpackgamemode.generated.h",
+            "c:\\users\\mplia\\documents\\fall 2023\\cms.611\\rat-alchemy\\ratpack\\source\\ratpack\\ratpackplayercontroller.h",
+            "c:\\users\\mplia\\documents\\fall 2023\\cms.611\\rat-alchemy\\ratpack\\intermediate\\build\\win64\\unrealeditor\\inc\\ratpack\\uht\\ratpackplayercontroller.generated.h",
+            "c:\\users\\mplia\\documents\\fall 2023\\cms.611\\rat-alchemy\\ratpack\\source\\ratpack\\ratpackcharacter.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "c:\\users\\mplia\\documents\\fall 2023\\cms.611\\rat-alchemy\\ratpack\\intermediate\\build\\win64\\unrealeditor\\inc\\ratpack\\uht\\ratpackcharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

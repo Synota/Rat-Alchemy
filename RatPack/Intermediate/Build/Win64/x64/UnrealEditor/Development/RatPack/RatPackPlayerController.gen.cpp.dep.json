@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\mplia\\documents\\fall 2023\\cms.611\\rat-alchemy\\ratpack\\intermediate\\build\\win64\\unrealeditor\\inc\\ratpack\\uht\\ratpackplayercontroller.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\mplia\\documents\\fall 2023\\cms.611\\rat-alchemy\\ratpack\\intermediate\\build\\win64\\x64\\ratpackeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\mplia\\documents\\fall 2023\\cms.611\\rat-alchemy\\ratpack\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ratpack\\definitions.ratpack.h",
+            "c:\\users\\mplia\\documents\\fall 2023\\cms.611\\rat-alchemy\\ratpack\\source\\ratpack\\ratpackplayercontroller.h",
+            "c:\\users\\mplia\\documents\\fall 2023\\cms.611\\rat-alchemy\\ratpack\\intermediate\\build\\win64\\unrealeditor\\inc\\ratpack\\uht\\ratpackplayercontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

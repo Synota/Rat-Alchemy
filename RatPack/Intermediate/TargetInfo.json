@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "RatPack",
-			"Path": "../Source/RatPack.Target.cs",
+			"Path": "..\\Source\\RatPack.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "RatPackEditor",
-			"Path": "../Source/RatPackEditor.Target.cs",
+			"Path": "..\\Source\\RatPackEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

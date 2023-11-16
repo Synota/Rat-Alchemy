@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/mplia/Documents/Fall 2023/CMS.611/Rat-Alchemy/RatPack/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/mplia/Documents/Fall 2023/CMS.611/Rat-Alchemy/RatPack/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/Users/mplia/Documents/Fall 2023/CMS.611/Rat-Alchemy/RatPack/Content/TopDown/Blueprints/BP_TopDownPlayerController.uasset",
+				"C:/Users/mplia/Documents/Fall 2023/CMS.611/Rat-Alchemy/RatPack/Content/BP_MyRatPackCharacter.uasset",
 				"/Users/Diego1/Documents/Unreal Projects/RatPack/Content/StarterContent/Particles/P_Fire.uasset"
 			]
 		}

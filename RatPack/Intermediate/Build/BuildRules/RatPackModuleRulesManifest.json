@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"/Users/Diego1/Documents/Unreal Projects/RatPack/Source/RatPack/RatPack.Build.cs",
-		"/Users/Diego1/Documents/Unreal Projects/RatPack/Source/RatPack.Target.cs",
-		"/Users/Diego1/Documents/Unreal Projects/RatPack/Source/RatPackEditor.Target.cs"
+		"C:\\Users\\mplia\\Documents\\Fall 2023\\CMS.611\\Rat-Alchemy\\RatPack\\Source\\RatPack\\RatPack.Build.cs",
+		"C:\\Users\\mplia\\Documents\\Fall 2023\\CMS.611\\Rat-Alchemy\\RatPack\\Source\\RatPack.Target.cs",
+		"C:\\Users\\mplia\\Documents\\Fall 2023\\CMS.611\\Rat-Alchemy\\RatPack\\Source\\RatPackEditor.Target.cs"
 	],
 	"EngineVersion": "5.3.1"
 }
