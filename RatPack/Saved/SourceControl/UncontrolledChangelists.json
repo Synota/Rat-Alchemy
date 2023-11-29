@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/Diego1/Desktop/Rat-Alchemy/RatPack/Content/Sound/thwoosh_Cue.uasset",
+				"/Users/Diego1/Desktop/Rat-Alchemy/RatPack/Content/TopDown/Blueprints/BP_TopDownRat.uasset",
 				"C:/Users/mplia/Documents/Fall 2023/CMS.611/Rat-Alchemy/RatPack/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/mplia/Documents/Fall 2023/CMS.611/Rat-Alchemy/RatPack/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
 				"C:/Users/mplia/Documents/Fall 2023/CMS.611/Rat-Alchemy/RatPack/Content/TopDown/Blueprints/BP_TopDownPlayerController.uasset",
