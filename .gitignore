@@ -76,3 +76,7 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 *.log
+# other files that we need to start ignoring
+RatPack/Saved/SourceControl/UncontrolledChangelists.json
+RatPack/Saved/AutoScreenshot.png
+RatPack/Saved/Logs/RatPack.log
