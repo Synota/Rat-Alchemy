@@ -1,9 +1,0 @@
-// pull in the shared settings for all configs for this target
-#include "RatPack.xcconfig"
-
-// Unreal per-config variables
-UE_TARGET_CONFIG = Shipping
-UE_UBT_BINARY_SUBPATH = RatPack-Mac-Shipping
-UE_MAC_EXECUTABLE_NAME = RatPack-Mac-Shipping
-PRODUCT_NAME = RatPack-Mac-Shipping
-CODE_SIGN_ENTITLEMENTS = ../../Build/Mac/Resources/Sandbox.NoNet.entitlements
